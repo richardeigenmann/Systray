@@ -1,0 +1,4 @@
+build
+*.gch
+nbproject
+.vscode
