@@ -5,11 +5,17 @@
 This project is about creating a systray icon. It is a C++ program which uses GTK3+ to create and interact with a System Tray icon.
 The menu entries simply call GTK callback functions which can then do any task which may include changing the icon which is demonstrated with the "Low, Medium and High Security" buttons. (Not that any functionality has been associated with this when you try it out.)
 
-![Screenshot](http:/richardeigenmann.github.io/Systray/Screenshot_Systray.png)
+Screenshot of the AppIndicator (blue):
 
-![Screenshot](http:/richardeigenmann.github.io/Systray/Screenshot_Menu_Open.png)
+![Screenshot](https://richardeigenmann.github.io/Systray/Screenshot_Systray.png)
 
-![Screenshot](http:/richardeigenmann.github.io/Systray/Screenshot_Icon_Changed.png)
+The menu expaned when right-clicked:
+
+![Screenshot](https://richardeigenmann.github.io/Systray/Screenshot_Menu_Open.png)
+
+The changed icon of the AppIndicator (shield):
+
+![Screenshot](https://richardeigenmann.github.io/Systray/Screenshot_Icon_Changed.png)
 
 ## See also
 
